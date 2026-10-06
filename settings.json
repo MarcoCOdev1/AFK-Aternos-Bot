@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "3sass bach mytfach server",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "w5hc",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "wladnasokda.aternos.me",
+    "port": 17008,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Sidi Marco lychafih",
+        "Flawless a9wad ma2anjabat lmaghrib",
+        "tbarklah 3la marco sidna"
       ]
     },
     "chat-log": true,
@@ -73,8 +73,8 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "enabled": true,
+    "webhookUrl": "https://discord.com/api/webhooks/1557042468896251944/zFh0R9lsgqUa7H7kyGvY1OmbZoAhMdWWPxAollSPlMlVsOg2fRANe5FMSTc6N68hpGH6",
     "events": {
       "connect": true,
       "disconnect": true,
